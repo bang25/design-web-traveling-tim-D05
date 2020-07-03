@@ -99,6 +99,22 @@
         height: 700px;
     }
 
+    .ryan-nav{
+	display: none;
+    }
+
+    .tours {
+	display: none;
+     }
+
+    .hotels {
+	display: none;
+     }
+
+    .flights {
+	display: none;
+     }
+
     .ryan-check {
         margin-bottom: 60px;
     }
