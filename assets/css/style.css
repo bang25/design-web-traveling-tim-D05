@@ -152,7 +152,8 @@ header {
 	margin : 110px auto 50px;
 	border: 2px solid #8D8D8D;
 	box-shadow: -10px 10px 5px #DEDEDE;
-  position: relative;
+        position: relative;
+        overflow: hidden;
 
 }
 
