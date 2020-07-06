@@ -5,3 +5,6 @@ Ini adalah design web traveling yang dibuat oleh kelompok D-05 yang beranggotaka
 3. Ryan Fajri
 4. Fort
 5. Dwi Sucipto
+
+
+https://bang25.github.io/design-web-traveling-tim-D05/
